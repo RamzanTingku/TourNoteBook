@@ -1,0 +1,48 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.user.tourassistant.page_fragment.AddExpenseFragment">
+
+<android.support.v7.widget.CardView
+    android:layout_width="match_parent"
+    android:layout_margin="10dp"
+    android:layout_height="wrap_content">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            >
+
+            <ImageButton
+                android:id="@+id/backFromAddExpse"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/com_facebook_close"
+                android:layout_alignParentEnd="true"/>
+        </RelativeLayout>
+        <EditText
+            android:id="@+id/Expense_DetailsET"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Expense Details"/>
+        <EditText
+            android:id="@+id/Expense_AmountET"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Expense Amount in tk"
+            android:inputType="number"/>
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="30dp">
+
+</LinearLayout>
+
+    </LinearLayout>
+</android.support.v7.widget.CardView>
+
+
+</FrameLayout>

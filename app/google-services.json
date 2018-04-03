@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "1024312137083",
+    "firebase_url": "https://tour-assistant-1506874217906.firebaseio.com",
+    "project_id": "tour-assistant-1506874217906",
+    "storage_bucket": "tour-assistant-1506874217906.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024312137083:android:2551a2759c70dd02",
+        "android_client_info": {
+          "package_name": "com.example.user.tourassistant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1024312137083-tm2ofehjf5kepp3fq71jr5ha869itn58.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user.tourassistant",
+            "certificate_hash": "c56e28d1279185d4164c5c241ae35d8040b98e1c"
+          }
+        },
+        {
+          "client_id": "1024312137083-shs2stb2hb03f1eb4jcpmosgfnac7mmd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user.tourassistant",
+            "certificate_hash": "ee876f7b9969c4a8ef7958bdb87a63cf6debab1e"
+          }
+        },
+        {
+          "client_id": "1024312137083-rqlcfds3ghvtvho34k54on2geil30hao.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user.tourassistant",
+            "certificate_hash": "5d0a2b96b44ca7d362ebba9926f224ff7aaeecc9"
+          }
+        },
+        {
+          "client_id": "1024312137083-asqs3behjrvajq36sl4f2fp0jkpe2jam.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH9fXdeU6dTNAeVwmGQq1h_kqWAMee9Oc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1024312137083-asqs3behjrvajq36sl4f2fp0jkpe2jam.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
